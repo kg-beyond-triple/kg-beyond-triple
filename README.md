@@ -1,4 +1,4 @@
-# ACL 2023 Tutorial: Retrieval-based Language Models and Applications
+# CIKM 2023 Tutorial: Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings
 
 The code is adapted from the [Nerfies website](https://nerfies.github.io).
 
